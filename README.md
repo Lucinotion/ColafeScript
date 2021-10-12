@@ -3,6 +3,8 @@
 
 **ColafeScript** (**CO**nsole **LA**nguage **F**or **E**vents) **is a simple runtime scripting language for the Unity game engine.** It was originally designed to be used as an alternative to the (*limited*) UnityEvent inspector fields and evolved into **a language for scripting chains of event functions**. It also makes up for a good **in-game console language** for testing functions, setting up variables, starting event chains, or just enabling cheats.
 
+![A demostration on colafe script](./README_images/cfs_demoA.gif)
+
 ## What does it do?
 
  - **Call component functions directly**, *you can even pass arguments!*
@@ -14,7 +16,7 @@
  - Supports **all the common arithmetic operators** (+, -, \*, /, %), including powers (\*\*) and bitwise (~,&,|,^,<<,>>).
  - Also supports **Strings** and concatenation.
 
-[But why did you make this???!!!](#why?)
+[But why did you make this???!!!](##why?)
 
 ## Examples
 
