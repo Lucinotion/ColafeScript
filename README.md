@@ -3,6 +3,8 @@
 
 **ColafeScript** (**CO**nsole **LA**nguage **F**or **E**vents) **is a simple runtime scripting language for the Unity game engine.** It was originally designed to be used as an alternative to the (*limited*) UnityEvent inspector fields and evolved into **a language for scripting chains of event functions**. It also makes up for a good **in-game console language** for testing functions, setting up variables, starting event chains, or just enabling cheats.
 
+**You can use the Colafe Interpreter window located at ***Window>Colafe>Interpreter*** for now until I upload the In-Game console asset + the documentation on how to use the Colafe classes.**
+
 ![A demostration on colafe script](./README_images/cfs_demoA.gif)
 
 ## What does it do?
