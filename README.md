@@ -34,7 +34,7 @@ like this */
 
 // ASSIGNMENT OPERATORS AND VARIABLES
 
-// Variable names can have letters, digits and underscores, the first character whoever can't be a digit.
+// Variable names can have letters, digits and underscores, the first character however can't be a digit.
 
 foobar = 5;         // Assign a value to a LOCAL variable, in this case foobar is being defined.
 foobar $= 6;        // Assigns a value only if the variable is undefined, because foobar has been defined it won't get assigned again.
