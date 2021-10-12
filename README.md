@@ -16,7 +16,7 @@
  - Supports **all the common arithmetic operators** (+, -, \*, /, %), including powers (\*\*) and bitwise (~,&,|,^,<<,>>).
  - Also supports **Strings** and concatenation.
 
-[But why did you make this???!!!](##why?)
+[But why did you make this???!!!](#why)
 
 ## Examples
 
