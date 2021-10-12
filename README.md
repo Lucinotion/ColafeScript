@@ -166,7 +166,7 @@ There are a few reasons why ColafeScript exists:
 
 *This has probably happened to you a lot:* **You finish a new method** for a component and you want to check if it works... **so you just call it from inside the closest ``Start()`` method you can find; compile, run the game, check if it worked, and if it works... remove it.** Some go as far as to assign a keypress to call the function in order to test it, or call it by clicking a boolean checkbox in the inspector...
 
-**Needless to say this way of testing sucks**, and most programmers would just assume that the right way of doing is to create some unit tests that check if the function works properly, however... you are making a game, and making unit tests for physics, collision checks or state machines is complicated.
+**Needless to say this way of testing sucks**, and most programmers would just assume that the right way of doing this is to create some unit tests that check if the function works properly, however... you are making a game, and making unit tests for physics, collision checks or state machines is complicated.
 So, now **that's where the magic of ColafeScript comes in, just call your functions directly, set the variables you need and see if it works.** You can even use this to make a small suite of unit tests to run whenever you feel like. 
 
 ### Do I really need another class just for that?!
