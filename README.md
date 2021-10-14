@@ -5,7 +5,7 @@
 
 You can use the Colafe Interpreter window located at ***Window>Colafe>Interpreter*** or the built-in console prefab at ***Assets/ColafeScript/Console/ColafeConsole.prefab***.
 
-![A demostration on colafe script](./~README/cfs_demoA.gif)
+![A demostration on colafe script](./~resources/cfs_demoA.gif)
 
 ## How to install
 
